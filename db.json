@@ -1,0 +1,539 @@
+{
+  "products": [
+    {
+      "products": [
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i5-13600k/Core%20i5%2013600K-01-500x500.webp",
+          "productName": "Intel 13th Gen Core i5 13600K Raptor Lake Processor",
+          "category": "CPU / Processor",
+          "status": "In Stock",
+          "price": 399.99,
+          "description": "Unlock the true potential of your PC with CPU Processor ABC.",
+          "keyFeatures": {
+            "Brand": "ProcessorCorp",
+            "Model": "ABC-XYZ",
+            "Specification": "12 cores, 24 threads, 3.5GHz base clock, 4.8GHz boost clock",
+            "Socket": "AM4",
+            "TDP": "105W"
+          },
+          "individualRating": 4.9,
+          "averageRating": 4.7,
+          "reviews": [
+            {
+              "username": "PCBuilderPro",
+              "rating": 5,
+              "review": "One of the best CPUs I've ever used. Superb performance!"
+            },
+            {
+              "username": "TechNewbie",
+              "rating": 4,
+              "review": "Fast and efficient, but a bit pricey for my budget."
+            }
+          ]
+        },
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-5-pro-4650g/ryzen-5-pro-4650g-500x500.jpg",
+          "productName": "AMD Ryzen 5 Pro 4650G Processor with Radeon Graphics",
+          "category": "CPU / Processor",
+          "status": "In Stock",
+          "price": 299.99,
+          "description": "Upgrade your PC's processing power with CPU Processor XYZ.",
+          "keyFeatures": {
+            "Brand": "ProcessorTech",
+            "Model": "XYZ-123",
+            "Specification": "8 cores, 16 threads, 3.0GHz base clock, 4.5GHz boost clock",
+            "Socket": "LGA1200",
+            "TDP": "95W"
+          },
+          "individualRating": 4.8,
+          "averageRating": 4.6,
+          "reviews": [
+            {
+              "username": "TechGuru",
+              "rating": 5,
+              "review": "Amazing CPU! It handles multitasking like a breeze."
+            },
+            {
+              "username": "GamingEnthusiast",
+              "rating": 4,
+              "review": "Great for gaming, but I wish it had more cores for heavy rendering tasks."
+            }
+          ]
+        },
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-5-5600g/ryzen-5-5600g-500x500.jpg",
+          "productName": "AMD Ryzen 5 5600G Processor with Radeon Graphics (Chinese Edition)",
+          "category": "CPU / Processor",
+          "status": "Out of stock",
+          "price": 229.99,
+          "description": "Get the best bang for your buck with CPU Processor MNO.",
+          "keyFeatures": {
+            "Brand": "ProcessorGenius",
+            "Model": "MNO-456",
+            "Specification": "6 cores, 12 threads, 2.8GHz base clock, 4.2GHz boost clock",
+            "Socket": "AM4",
+            "TDP": "65W"
+          },
+          "individualRating": 4.6,
+          "averageRating": 4.4,
+          "reviews": [
+            {
+              "username": "BudgetBuilder",
+              "rating": 5,
+              "review": "This CPU performs surprisingly well for its price!"
+            },
+            {
+              "username": "EverydayUser",
+              "rating": 4,
+              "review": "Solid performance, but not ideal for heavy workloads."
+            }
+          ]
+        },
+
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/b550m-k/b550m-k-01-500x500.webp",
+          "productName": "Gigabyte B550M K AMD AM4 Micro ATX Motherboard",
+          "category": "Motherboard",
+          "status": "In Stock",
+          "price": 179.99,
+          "description": "Build your dream PC with Motherboard XYZ.",
+          "keyFeatures": {
+            "Brand": "MotherboardTech",
+            "Model": "XYZ-AM4",
+            "Specification": "ATX form factor, AMD AM4 socket, PCIe 4.0 support",
+            "RAMSlots": "4 DDR4 slots",
+            "Connectivity": "USB 3.2 Gen 2, HDMI, DisplayPort"
+          },
+          "individualRating": 4.7,
+          "averageRating": 4.5,
+          "reviews": [
+            {
+              "username": "PCBuilderPro",
+              "rating": 5,
+              "review": "High-quality motherboard with excellent features!"
+            },
+            {
+              "username": "TechEnthusiast",
+              "rating": 4,
+              "review": "Great aesthetics, but I wish it had more RGB headers."
+            }
+          ]
+        },
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/ga-h81m-ds2/ga-h81m-ds2-1-500x500.jpg",
+          "productName": "Gigabyte GA-H81M-DS2 Micro ATX Motherboard",
+          "category": "Motherboard",
+          "status": "In Stock",
+          "price": 249.99,
+          "description": "Take your PC to the next level with Motherboard ABC.",
+          "keyFeatures": {
+            "Brand": "MotherboardCorp",
+            "Model": "ABC-Z390",
+            "Specification": "ATX form factor, Intel LGA1200 socket, PCIe 3.0 support",
+            "RAMSlots": "4 DDR4 slots",
+            "Connectivity": "USB 3.1 Gen 2, HDMI, DisplayPort"
+          },
+          "individualRating": 4.8,
+          "averageRating": 4.6,
+          "reviews": [
+            {
+              "username": "TechGuru",
+              "rating": 5,
+              "review": "Awesome motherboard! Works flawlessly with my components."
+            },
+            {
+              "username": "Gamer123",
+              "rating": 4,
+              "review": "Great for gaming, but I expected more M.2 slots."
+            }
+          ]
+        },
+        {
+          "image": "ASRock A520M-HVS AMD AM4 Micro ATX Motherboard",
+          "productName": "https://www.startech.com.bd/image/cache/catalog/motherboard/asrock/a520m-hvs/a520m-hvs-01-500x500.webp",
+          "category": "Motherboard",
+          "status": "Out of stock",
+          "price": 149.99,
+          "description": "Affordable and reliable Motherboard MNO for your PC build.",
+          "keyFeatures": {
+            "Brand": "MotherboardGenius",
+            "Model": "MNO-B550",
+            "Specification": "Micro ATX form factor, AMD B550 chipset, PCIe 4.0 support",
+            "RAMSlots": "4 DDR4 slots",
+            "Connectivity": "USB 3.2 Gen 1, HDMI"
+          },
+          "individualRating": 4.6,
+          "averageRating": 4.4,
+          "reviews": [
+            {
+              "username": "BudgetBuilder",
+              "rating": 5,
+              "review": "Excellent value for money! Perfect for my budget build."
+            },
+            {
+              "username": "EverydayUser",
+              "rating": 4,
+              "review": "Good features, but I wish it had more SATA ports."
+            }
+          ]
+        },
+
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/ssd/netac/ls-ne-sa500/ls-ne-sa500-01-500x500.webp",
+          "productName": "Netac SA500 120GB 2.5-inch SATAIII SSD",
+          "category": "Storage Device",
+          "status": "In Stock",
+          "price": 159.99,
+          "description": "Upgrade your PC storage with the lightning-fast SSD Storage XYZ.",
+          "keyFeatures": {
+            "Brand": "StorageTech",
+            "Model": "XYZ-SSD",
+            "Specification": "1TB capacity, NVMe M.2 interface",
+            "ReadSpeed": "3500MB/s",
+            "WriteSpeed": "2500MB/s"
+          },
+          "individualRating": 4.7,
+          "averageRating": 4.6,
+          "reviews": [
+            {
+              "username": "SpeedDemon",
+              "rating": 5,
+              "review": "This SSD is insanely fast! My system boots up in seconds."
+            },
+            {
+              "username": "StorageMaster",
+              "rating": 4,
+              "review": "Impressive performance, but I wish it had more capacity options."
+            }
+          ]
+        },
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/ssd/hp-ssd/s700-500x500.jpg",
+          "productName": "HP S700 120GB 2.5 SSD (Solid State Drive)",
+          "category": "Storage Device",
+          "status": "In Stock",
+          "price": 79.99,
+          "description": "Get ample storage space with the reliable HDD Storage ABC.",
+          "keyFeatures": {
+            "Brand": "StorageCorp",
+            "Model": "ABC-HDD",
+            "Specification": "2TB capacity, SATA 6Gb/s interface",
+            "RPM": "7200",
+            "Cache": "64MB"
+          },
+          "individualRating": 4.6,
+          "averageRating": 4.4,
+          "reviews": [
+            {
+              "username": "DataHoarder",
+              "rating": 5,
+              "review": "Affordable and spacious HDD. Perfect for storing large files."
+            },
+            {
+              "username": "EverydayUser",
+              "rating": 4,
+              "review": "Decent performance, but I miss the speed of SSDs."
+            }
+          ]
+        },
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/ssd/twinmos/128gb-m-2-2280-sataiii-ssd/128gb-m-2-2280-sataiii-ssd-01-500x500.webp",
+          "productName": "TwinMOS 128GB M.2 2280 SATAIII SSD",
+          "category": "Storage Device",
+          "status": "Out of stock",
+          "price": 199.99,
+          "description": "Portable and fast external SSD for data on the go - External SSD ABC.",
+          "keyFeatures": {
+            "Brand": "StorageTech",
+            "Model": "ABC-External",
+            "Specification": "500GB capacity, USB 3.1 Gen 2 interface",
+            "ReadSpeed": "540MB/s",
+            "WriteSpeed": "500MB/s"
+          },
+          "individualRating": 4.8,
+          "averageRating": 4.7,
+          "reviews": [
+            {
+              "username": "Traveler123",
+              "rating": 5,
+              "review": "Great for backups and carrying data while traveling!"
+            },
+            {
+              "username": "TechGeek",
+              "rating": 4,
+              "review": "Fast transfer speeds, but I'd prefer a larger capacity option."
+            }
+          ]
+        },
+
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/monitor/walton/wd215v04/wd215v04-01-500x500.webp",
+          "productName": "WALTON WD215V04 21.45 FHD LED Frameless Monitor",
+          "category": "Monitor",
+          "status": "In Stock",
+          "price": 399.99,
+          "description": "Immerse yourself in gaming with the high-refresh-rate Gaming Monitor XYZ.",
+          "keyFeatures": {
+            "Brand": "MonitorTech",
+            "Model": "XYZ-Gaming",
+            "Specification": "27-inch, QHD resolution, 144Hz refresh rate",
+            "PanelType": "IPS",
+            "ResponseTime": "1ms",
+            "Connectivity": "HDMI, DisplayPort"
+          },
+          "individualRating": 4.9,
+          "averageRating": 4.8,
+          "reviews": [
+            {
+              "username": "Gamer123",
+              "rating": 5,
+              "review": "Absolutely stunning monitor! Games look fantastic on it."
+            },
+            {
+              "username": "TechEnthusiast",
+              "rating": 5,
+              "review": "Smooth gameplay with minimal motion blur. Perfect for competitive gaming!"
+            }
+          ]
+        },
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/m24f/m24f-500x500.jpg",
+          "productName": "HP M24f 24 FHD IPS Monitor",
+          "category": "Monitor",
+          "status": "In Stock",
+          "price": 499.99,
+          "description": "Enhance your productivity with the color-accurate Professional Monitor ABC.",
+          "keyFeatures": {
+            "Brand": "MonitorCorp",
+            "Model": "ABC-Prof",
+            "Specification": "32-inch, 4K resolution, 60Hz refresh rate",
+            "PanelType": "IPS",
+            "ColorCoverage": "100% sRGB, 95% DCI-P3",
+            "Connectivity": "HDMI, DisplayPort, USB-C"
+          },
+          "individualRating": 4.8,
+          "averageRating": 4.7,
+          "reviews": [
+            {
+              "username": "Designer456",
+              "rating": 5,
+              "review": "Excellent color reproduction for design work. Love it!"
+            },
+            {
+              "username": "TechPro",
+              "rating": 4,
+              "review": "Great display, but I wish it had a higher refresh rate for gaming."
+            }
+          ]
+        },
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/m24fwa/m24fwa-01-500x500.webp",
+          "productName": "HP M24fwa 23.8-Inch 75Hz FHD IPS Monitor",
+          "category": "Monitor",
+          "status": "Out of stock",
+          "price": 699.99,
+          "description": "Immersive UltraWide Monitor MNO for an extraordinary viewing experience.",
+          "keyFeatures": {
+            "Brand": "MonitorGenius",
+            "Model": "MNO-UW",
+            "Specification": "34-inch, WQHD resolution, 100Hz refresh rate",
+            "PanelType": "VA",
+            "ResponseTime": "4ms",
+            "Connectivity": "HDMI, DisplayPort, USB-C"
+          },
+          "individualRating": 4.7,
+          "averageRating": 4.6,
+          "reviews": [
+            {
+              "username": "Multitasker789",
+              "rating": 5,
+              "review": "Perfect for multitasking and productivity. Great screen real estate!"
+            },
+            {
+              "username": "Gamer123",
+              "rating": 4,
+              "review": "Good for gaming and productivity, but the response time could be better."
+            }
+          ]
+        },
+
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/ram/adata/gammix-d20/gammix-d20-01-500x500.jpg",
+          "productName": "Adata XPG Gammix D20 16GB DDR4 3200MHz Gaming Desktop RAM",
+          "category": "RAM",
+          "status": "In Stock",
+          "price": 159.99,
+          "description": "Boost your system's performance with the High-Performance RAM XYZ.",
+          "keyFeatures": {
+            "Brand": "RAMTech",
+            "Model": "XYZ-DDR4",
+            "Specification": "16GB (2x8GB) DDR4, 3600MHz",
+            "CASLatency": "18",
+            "Voltage": "1.35V"
+          },
+          "individualRating": 4.9,
+          "averageRating": 4.8,
+          "reviews": [
+            {
+              "username": "Gamer123",
+              "rating": 5,
+              "review": "Blazing fast RAM! My games load quicker, and multitasking is smooth."
+            },
+            {
+              "username": "TechEnthusiast",
+              "rating": 4,
+              "review": "Great RAM, but I had to manually set the XMP profile in the BIOS."
+            }
+          ]
+        },
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/ram/adata/xpg-lancer/xpg-lancer-01-500x500.jpg",
+          "productName": "Adata XPG LANCER 16GB DDR5 6000MHz Gaming Desktop RAM",
+          "category": "RAM",
+          "status": "In Stock",
+          "price": 179.99,
+          "description": "Add some style to your build with the RGB RAM Module ABC.",
+          "keyFeatures": {
+            "Brand": "RAMCorp",
+            "Model": "ABC-DDR4",
+            "Specification": "32GB (2x16GB) DDR4, 3200MHz",
+            "CASLatency": "16",
+            "Voltage": "1.35V",
+            "RGB": "Addressable RGB lighting"
+          },
+          "individualRating": 4.8,
+          "averageRating": 4.7,
+          "reviews": [
+            {
+              "username": "RGBEnthusiast",
+              "rating": 5,
+              "review": "Beautiful RGB effects! Works flawlessly with my RGB sync software."
+            },
+            {
+              "username": "Gamer456",
+              "rating": 4,
+              "review": "Good RAM with impressive RGB lighting, but a bit pricey."
+            }
+          ]
+        },
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/ram/adata/8gb-d60g/8gb-d60g-1-500x500.jpg",
+          "productName": "Adata 8GB D60G DDR4 3200MHz RGB Gaming RAM",
+          "category": "RAM",
+          "status": "Out of stock",
+          "price": 89.99,
+          "description": "Get decent performance on a budget with the Budget RAM MNO.",
+          "keyFeatures": {
+            "Brand": "RAMGenius",
+            "Model": "MNO-DDR4",
+            "Specification": "8GB (1x8GB) DDR4, 2666MHz",
+            "CASLatency": "19",
+            "Voltage": "1.2V"
+          },
+          "individualRating": 4.6,
+          "averageRating": 4.5,
+          "reviews": [
+            {
+              "username": "BudgetBuilder",
+              "rating": 5,
+              "review": "Excellent value for money! Performs surprisingly well for its price."
+            },
+            {
+              "username": "EverydayUser",
+              "rating": 4,
+              "review": "Decent RAM, but I'll upgrade to more capacity when it's back in stock."
+            }
+          ]
+        },
+
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/gigabyte/g750h/g750h-228x228.jpg",
+          "productName": "Gigabyte G750H 750W Semi Moduler 80 Plus Gold Certified Power Supply",
+          "category": "Power Supply Unit",
+          "status": "In Stock",
+          "price": 129.99,
+          "description": "Customize your cable management with the Modular Power Supply XYZ.",
+          "keyFeatures": {
+            "Brand": "PSUTech",
+            "Model": "XYZ-650M",
+            "Specification": "650W, 80 Plus Gold certified",
+            "Modularity": "Fully Modular",
+            "Connectors": "ATX, EPS, PCIe, SATA, Molex"
+          },
+          "individualRating": 4.7,
+          "averageRating": 4.6,
+          "reviews": [
+            {
+              "username": "CableMaster",
+              "rating": 5,
+              "review": "Love the fully modular design! It made cable management a breeze."
+            },
+            {
+              "username": "TechEnthusiast",
+              "rating": 4,
+              "review": "Solid PSU, but I wish the fan was a bit quieter under load."
+            }
+          ]
+        },
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/corsair/cv650/cv650-1-228x228.jpg",
+          "productName": "Corsair CV650 650Watt 80 Plus Bronze Certified Power Supply",
+          "category": "Power Supply Unit",
+          "status": "In Stock",
+          "price": 199.99,
+          "description": "Power your high-end components with the High-Wattage Power Supply ABC.",
+          "keyFeatures": {
+            "Brand": "PSUCorp",
+            "Model": "ABC-850",
+            "Specification": "850W, 80 Plus Platinum certified",
+            "Modularity": "Semi-Modular",
+            "Connectors": "ATX, EPS, PCIe, SATA, Molex"
+          },
+          "individualRating": 4.8,
+          "averageRating": 4.7,
+          "reviews": [
+            {
+              "username": "PCBuilderPro",
+              "rating": 5,
+              "review": "Top-notch PSU! Provides clean and stable power for my high-end rig."
+            },
+            {
+              "username": "Gamer123",
+              "rating": 4,
+              "review": "Good performance, but I expected it to be fully modular at this price."
+            }
+          ]
+        },
+        {
+          "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/revenger/vp-350/vp-350-01-228x228.webp",
+          "productName": "Revenger VP 350 Watt Power Supply",
+          "category": "Power Supply Unit",
+          "status": "Out of stock",
+          "price": 79.99,
+          "description": "Get reliable power at an affordable price with the Budget Power Supply MNO.",
+          "keyFeatures": {
+            "Brand": "PSUGenius",
+            "Model": "MNO-550",
+            "Specification": "550W, 80 Plus Bronze certified",
+            "Modularity": "Non-Modular",
+            "Connectors": "ATX, EPS, PCIe, SATA, Molex"
+          },
+          "individualRating": 4.6,
+          "averageRating": 4.5,
+          "reviews": [
+            {
+              "username": "BudgetBuilder",
+              "rating": 5,
+              "review": "Great value for a basic PSU. It gets the job done!"
+            },
+            {
+              "username": "EverydayUser",
+              "rating": 4,
+              "review": "Reliable power supply, but I'd prefer a modular option for cleaner builds."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,12 @@
 import RootLayout from "@/components/UI/RootLayout";
+import HomePageContainer from "@/components/pageComponent/HomePageContainer";
 
 export default function HomePage() {
-  return <div>home page</div>;
+  return (
+    <div>
+      <HomePageContainer />
+    </div>
+  );
 }
 
 HomePage.getLayout = function getLayout(page) {

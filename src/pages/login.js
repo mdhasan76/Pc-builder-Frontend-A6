@@ -7,7 +7,9 @@ const LogInPage = () => {
     <div className="grid place-items-center min-h-screen">
       <button
         onClick={() =>
-          signIn("github", { callbackUrl: "http://localhost:3000/pc-builder" })
+          signIn("github", {
+            callbackUrl: "https://pc-builder-khaki.vercel.app/pc-builder",
+          })
         }
         className="btn btn-neutral"
       >

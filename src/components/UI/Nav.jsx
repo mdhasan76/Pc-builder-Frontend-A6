@@ -54,29 +54,29 @@ const Nav = () => {
             <Link href="/">Home</Link>
           </li>
           <li>
-            <Link href="/category">Category</Link>
+            <Link href="/featured/category">Category</Link>
           </li>
           <li tabIndex={0}>
             <details>
               <summary>Product</summary>
               <ul className="p-2">
                 <li className="text-black">
-                  <Link href="/featured/processor">Processor</Link>
+                  <Link href="/featured/Processor">Processor</Link>
                 </li>
                 <li className="text-black">
-                  <Link href="/featured/motherboard">Motherboard</Link>
+                  <Link href="/featured/Motherboard">Motherboard</Link>
                 </li>
                 <li className="text-black">
-                  <Link href="/featured/ram">RAM</Link>
+                  <Link href="/featured/RAM">RAM</Link>
                 </li>
                 <li className="text-black">
-                  <Link href="/featured/power-supply">Power Supply Unit</Link>
+                  <Link href="/featured/Power Supply">Power Supply Unit</Link>
                 </li>
                 <li className="text-black">
-                  <Link href="/featured/ssd">Storage Device</Link>
+                  <Link href="/featured/SSD">Storage Device</Link>
                 </li>
                 <li className="text-black">
-                  <Link href="/featured/monitor">Monitor</Link>
+                  <Link href="/featured/Monitor">Monitor</Link>
                 </li>
               </ul>
             </details>

@@ -2,7 +2,7 @@ import { FaFacebook, FaYoutube, FaGithub } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <footer className="footer footer-center p-6 bg-[#1a4e7b] text-white">
+    <footer className="footer footer-center p-6 bg-[#1a4e7b] text-white sticky top-full">
       <div>
         <p className="font-bold">Md Hasan</p>
         <p>Copyright © 2023 - All right reserved</p>

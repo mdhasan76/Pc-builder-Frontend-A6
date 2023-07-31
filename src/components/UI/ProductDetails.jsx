@@ -1,3 +1,4 @@
+import Image from "next/image";
 import React from "react";
 const product = {
   _id: "abc",
@@ -36,7 +37,13 @@ const ProductDetails = () => {
     <>
       <div className="flex max-w-7xl mx-auto items-center border-b border-gray-300">
         <div className="w-[50%]">
-          <img src={product?.image} alt="" />
+          <Image
+            src={product?.image}
+            height={300}
+            width={300}
+            className="h-[300px] mx-auto"
+            alt="product"
+          />
         </div>
         <div className="w-[50%] space-y-3">
           <h1 className="text-3xl font-semibold">{product?.name}</h1>

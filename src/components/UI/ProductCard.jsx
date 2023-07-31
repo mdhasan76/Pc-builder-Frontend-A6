@@ -47,9 +47,10 @@ const ProductCard = () => {
         />
         <h1 className="text-xl font-semibold">{product.productName}</h1>
       </Link>
-      <p>Rating: {product.rating}</p>
+      <p>Rating: {product.averageRating}</p>
       <p className="text-sm">Category: {product.category}</p>
       <p className="text-sm">Price: {product?.price}</p>
+      <p className="text-sm">Status: {product?.status}</p>
       <Link href={`/product/${product._id}`} className="btn btn-neutral">
         Show more
       </Link>

@@ -3,7 +3,7 @@ import Footer from "./Footer";
 
 const RootLayout = ({ children }) => {
   return (
-    <div>
+    <div className="min-h-screen">
       <Nav />
       {children}
       <Footer />

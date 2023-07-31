@@ -8,7 +8,7 @@ const LogInPage = () => {
       <button
         onClick={() =>
           signIn("github", {
-            callbackUrl: "https://pc-builder-khaki.vercel.app/pc-builder",
+            callbackUrl: "https://pc-builder-khaki.vercel.app",
           })
         }
         className="btn btn-neutral"

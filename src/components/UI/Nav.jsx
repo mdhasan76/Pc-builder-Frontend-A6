@@ -1,6 +1,9 @@
 import Link from "next/link";
+import { signOut, useSession } from "next-auth/react";
 
 const Nav = () => {
+  const session = useSession();
+  console.log(session);
   const user = null;
   return (
     <div className="navbar p-6 bg-[#1a4e7b] text-black">
@@ -46,7 +49,7 @@ const Nav = () => {
             </li>
           </ul>
         </div>
-        <p className="btn btn-ghost normal-case text-xl">PC Shop</p>
+        <p className="btn btn-ghost normal-case text-xl texh-white">PC Shop</p>
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1 text-white">
@@ -82,13 +85,17 @@ const Nav = () => {
             </details>
           </li>
           <li>
-            {user?.email ? <button>Logout</button> : <button>Login</button>}
+            {session.status === "authenticated" ? (
+              <button onClick={() => signOut()}>Logout</button>
+            ) : (
+              <Link href={"/login"}>Login</Link>
+            )}
           </li>
         </ul>
       </div>
       <div className="navbar-end">
         <Link href={"/pc-builder"} className="btn btn-neutral">
-          Pc Builder
+          PC Builder
         </Link>
       </div>
     </div>

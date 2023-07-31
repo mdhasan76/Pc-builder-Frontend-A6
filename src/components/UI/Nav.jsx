@@ -46,12 +46,15 @@ const Nav = () => {
             </li>
           </ul>
         </div>
-        <a className="btn btn-ghost normal-case text-xl">PC Shop</a>
+        <p className="btn btn-ghost normal-case text-xl">PC Shop</p>
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1 text-white">
           <li>
-            <a>Category</a>
+            <Link href="/">Home</Link>
+          </li>
+          <li>
+            <Link href="/category">Category</Link>
           </li>
           <li tabIndex={0}>
             <details>
